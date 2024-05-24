@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+lode88.ai	TRUE	/	FALSE	1999999999	device	desktop
+https%3A%2F%2Flode88.ai	TRUE	/	FALSE	1999999999	SameSite	strict
+lode88.ai	TRUE	/	FALSE	1999999999	host	lode88.ai
+lode88.ai	TRUE	/	FALSE	1999999999	SameSite	strict
+

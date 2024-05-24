@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 24 May 2024 17:59:20 at https://lode88.ai/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://lode88.ai/ -O1 "C:\My Web Sites\lode88" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:59:44	Error: 	"Not Found" (404) at link https://lode88.ai/splashscreens/iphone5_splash.png (from https://lode88.ai/)
+17:59:44	Error: 	"Not Found" (404) at link https://lode88.ai/splashscreens/iphone6_splash.png (from https://lode88.ai/)
+17:59:44	Error: 	"Not Found" (404) at link https://lode88.ai/splashscreens/iphoneplus_splash.png (from https://lode88.ai/)
+17:59:44	Error: 	"Not Found" (404) at link https://lode88.ai/splashscreens/iphonex_splash.png (from https://lode88.ai/)
+17:59:44	Error: 	"Not Found" (404) at link https://lode88.ai/splashscreens/iphonexr_splash.png (from https://lode88.ai/)
+17:59:44	Error: 	"Not Found" (404) at link https://lode88.ai/splashscreens/iphonexsmax_splash.png (from https://lode88.ai/)
+17:59:44	Error: 	"Not Found" (404) at link https://lode88.ai/splashscreens/ipad_splash.png (from https://lode88.ai/)
+17:59:44	Error: 	"Not Found" (404) at link https://lode88.ai/splashscreens/ipadpro1_splash.png (from https://lode88.ai/)
+17:59:44	Error: 	"Not Found" (404) at link https://lode88.ai/splashscreens/ipadpro3_splash.png (from https://lode88.ai/)
+17:59:44	Error: 	"Not Found" (404) at link https://lode88.ai/splashscreens/ipadpro2_splash.png (from https://lode88.ai/)
+17:59:44	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://lode88.ai/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 10 seconds : 405 links scanned, 393 files written (59803379 bytes overall) [48621354 bytes received at 374010 bytes/sec], 14243157 bytes transferred using HTTP compression in 154 files, ratio 19%, 16.3 requests per connection
+(11 errors, 0 warnings, 0 messages)
